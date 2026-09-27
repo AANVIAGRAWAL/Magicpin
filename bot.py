@@ -404,9 +404,9 @@ async def healthz():
 async def metadata():
     """Team name, members, model, approach, contact email, version."""
     return {
-        "team_name": "YourActualTeamName",
-        "members": "Your Actual Name(s)",
-        "contact_email": "your.actual@email.com",
+        "team_name": "AIgroover",
+        "members": "Aanvi agrawal",
+        "contact_email": "aanviagrawal191@gmail.com",
         "model": "gemini-3.6-flash",
         "approach": "Rule-based decision layer + Gemini Flash single-shot composer",
         "version": "1.0.0"
